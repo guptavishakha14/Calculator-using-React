@@ -25,3 +25,5 @@ The Application Runs on **localhost:3000**
 ![Screenshot (253)](https://user-images.githubusercontent.com/59644712/214279971-1ac169d9-0288-401f-8320-ddd5b898b7e4.png)
 
 ![Screenshot (254)](https://user-images.githubusercontent.com/59644712/214279984-fafb3b65-d949-40cc-a928-835221c71563.png)
+
+Contributor Vishakha Gupta
